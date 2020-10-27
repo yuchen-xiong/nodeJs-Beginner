@@ -1,4 +1,4 @@
-# nodeJs-beginner
+# nodejs-beginner
 
 <b>Class: Node.js Essential Training</b><br />
 <b>IDE: Visual Studio Code</b><br />
